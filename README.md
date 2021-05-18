@@ -31,7 +31,7 @@ Bootstrap UI Kit helps you to easily set up colors, typography & border radius t
 |--|--|
 | Download Figma | https://themeselection.com/products/free-figma-bootstrap-ui-kit/ |
 | Download Sketch |  https://themeselection.com/products/free-sketch-bootstrap-ui-kit/ |
-| Youtube | https://www.youtube.com/watch?v=PFdHrSmLcZQ&t=1s |
+| Youtube | https://youtu.be/r6xTC0_O5cE |
 
 
 ## Credits 🤘
