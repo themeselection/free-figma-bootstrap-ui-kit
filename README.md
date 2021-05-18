@@ -8,7 +8,7 @@
 **[Figma Bootstrap UI Kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/)** comprising of 300+ organized Bootstrap 5 components built with atomic design system & auto layout. Kick start your next Figma project in no time. 
 
 ### A Complete Figma UI Kit 😎
-Figma Bootstrap UI Kit is a comprehensive and easy-to-use Figma Library with organized components & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
+**[Figma Bootstrap UI Kit](https://themeselection.com/products/free-figma-bootstrap-ui-kit/)** is a comprehensive and easy-to-use Figma Library with organized components & atoms. It includes Bootstrap’s colors, grids, and typography so that you can easily customize it to fit your brand or product.
 
 ### Design with Auto Layout 😍
 Auto Layout helps you to design your website or application faster and saves hours of work! 
